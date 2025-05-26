@@ -1,0 +1,38 @@
+interface Location {
+    name: string,
+    latitude: number,
+    longitude: number,
+    getLocation: () => Location
+}
+
+
+class LocationNew {
+
+    private long: number;
+    private lat: number;
+
+
+
+    constructor(long: number, lat: number) {
+        this.lat = lat,
+        this.long = long;
+    }
+
+
+    /**
+     * name
+     */
+    public getLocation() {
+        return (this.lat, this.long)
+    }
+}
+
+let newLocation: Location = {
+    name: "jeff",
+    latitude: -33,
+    longitude: 151,
+    getLocation: () => {
+        return newLocation
+    }
+}
+

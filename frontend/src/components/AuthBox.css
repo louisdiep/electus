@@ -1,0 +1,9 @@
+input[type="password"] {
+  font-family: caption;
+  display: block;
+  /* 23em divided by font-size percentage */
+  width: 13.53em;
+  /* 2.5em divided by font-size percentage */
+  height: 1.47em;
+  font-size: 170%;
+}

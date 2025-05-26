@@ -1,0 +1,19 @@
+.heading {
+  color: rgb(241, 233, 233);
+  text-align: center;
+  font-family: Lexend;
+  font-size: 3em;
+  font-style: normal;
+  font-weight: 350;
+  line-height: normal;
+  margin: 1rem;
+  font-family: 'Lexend', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+@media (max-width: 768px) {
+  .heading {
+    font-size: 2.5rem;
+    /* margin-top: 3rem; */
+    margin-bottom: 1rem;
+  }
+}

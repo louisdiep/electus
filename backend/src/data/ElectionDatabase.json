@@ -1,0 +1,242 @@
+{
+  "86149844": {
+    "id": 86149844,
+    "authUserId": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9",
+    "name": "rwrqwrqrwrwq",
+    "description": "rwrqwrqrqwr",
+    "images": [],
+    "location": "rwqrwqrqw",
+    "date_time_start": "1970-01-01T00:00:00.000Z",
+    "date_time_end": "1970-01-01T00:00:00.000Z",
+    "requires_zid": true,
+    "questions": [
+      {
+        "id": 586038437,
+        "title": "President",
+        "candidates": [
+          {
+            "name": "Alexia Lebrun",
+            "description": "",
+            "image": "",
+            "candidateIndex": 788829446
+          },
+          {
+            "name": "Patrick Cooper",
+            "description": "",
+            "image": "",
+            "candidateIndex": 88141193
+          },
+          {
+            "name": "Lina Pasquier",
+            "description": "",
+            "image": "",
+            "candidateIndex": 151724461
+          },
+          {
+            "name": "Timothy Stevens",
+            "description": "",
+            "image": "",
+            "candidateIndex": 689837082
+          }
+        ],
+        "questionType": "preferential",
+        "ballot": []
+      },
+      {
+        "id": 15477694,
+        "title": "President In chief",
+        "candidates": [
+          {
+            "name": "Alexia Lebrun",
+            "description": "",
+            "image": "",
+            "candidateIndex": 460654746
+          },
+          {
+            "name": "Patrick Cooper",
+            "description": "",
+            "image": "",
+            "candidateIndex": 695010949
+          },
+          {
+            "name": "Lina Pasquier",
+            "description": "",
+            "image": "",
+            "candidateIndex": 555553748
+          },
+          {
+            "name": "Timothy Stevens",
+            "description": "",
+            "image": "",
+            "candidateIndex": 327779459
+          }
+        ],
+        "questionType": "preferential",
+        "ballot": []
+      }
+    ],
+    "electionState": 1,
+    "voters": [
+      {
+        "zid": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9"
+      }
+    ],
+    "sessionCode": "lm9vv"
+  },
+  "414078483": {
+    "id": 414078483,
+    "authUserId": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9",
+    "name": "test",
+    "description": "test",
+    "images": [],
+    "location": "test",
+    "date_time_start": "1970-01-01T00:00:00.000Z",
+    "date_time_end": "1970-01-01T00:00:00.000Z",
+    "requires_zid": true,
+    "questions": [
+      {
+        "id": 394715544,
+        "title": "tesPresident",
+        "candidates": [
+          {
+            "name": "Alexia Lebrunt",
+            "description": "",
+            "image": "",
+            "candidateIndex": 461847146
+          },
+          {
+            "name": "Patrick Coopert",
+            "description": "",
+            "image": "",
+            "candidateIndex": 964891341
+          },
+          {
+            "name": "Lina Pasquiert",
+            "description": "",
+            "image": "",
+            "candidateIndex": 561664197
+          },
+          {
+            "name": "testt",
+            "description": "",
+            "image": "",
+            "candidateIndex": 96194936
+          }
+        ],
+        "questionType": "preferential",
+        "ballot": []
+      }
+    ],
+    "electionState": 2,
+    "voters": [
+      {
+        "zid": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9"
+      }
+    ],
+    "sessionCode": "y0m78"
+  },
+  "488476444": {
+    "id": 488476444,
+    "authUserId": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9",
+    "name": "test",
+    "description": "testsetstt",
+    "images": [],
+    "location": "test",
+    "date_time_start": "1970-01-01T00:00:00.000Z",
+    "date_time_end": "1970-01-01T00:00:00.000Z",
+    "requires_zid": true,
+    "questions": [
+      {
+        "id": 78623004,
+        "title": "President",
+        "candidates": [
+          {
+            "name": "Alexia Lebrun",
+            "description": "",
+            "image": "",
+            "candidateIndex": 705459342
+          },
+          {
+            "name": "Patrick Cooper",
+            "description": "",
+            "image": "",
+            "candidateIndex": 934535821
+          },
+          {
+            "name": "Lina Pasquier",
+            "description": "",
+            "image": "",
+            "candidateIndex": 172914104
+          },
+          {
+            "name": "Timothy Stevens",
+            "description": "",
+            "image": "",
+            "candidateIndex": 856003341
+          }
+        ],
+        "questionType": "preferential",
+        "ballot": []
+      }
+    ],
+    "electionState": 1,
+    "voters": [
+      {
+        "zid": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9"
+      }
+    ],
+    "sessionCode": "kbde4"
+  },
+  "891531194": {
+    "id": 891531194,
+    "authUserId": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9",
+    "name": "test",
+    "description": "wqeqw",
+    "images": [],
+    "location": "ewqe",
+    "date_time_start": "1970-01-01T00:00:00.000Z",
+    "date_time_end": "1970-01-01T00:00:00.000Z",
+    "requires_zid": true,
+    "questions": [
+      {
+        "id": 744693804,
+        "title": "President",
+        "candidates": [
+          {
+            "name": "Alexia Lebrun",
+            "description": "",
+            "image": "",
+            "candidateIndex": 907648466
+          },
+          {
+            "name": "Patrick Cooper",
+            "description": "",
+            "image": "",
+            "candidateIndex": 273816041
+          },
+          {
+            "name": "Lina Pasquier",
+            "description": "",
+            "image": "",
+            "candidateIndex": 915193442
+          },
+          {
+            "name": "Timothy Stevens",
+            "description": "",
+            "image": "",
+            "candidateIndex": 364285478
+          }
+        ],
+        "questionType": "preferential",
+        "ballot": []
+      }
+    ],
+    "electionState": 1,
+    "voters": [
+      {
+        "zid": "a9962b2edc56fc6a5dc4f39fbb1f7276ea0a9688ec3c840322e069c8df1128b9"
+      }
+    ],
+    "sessionCode": "enz00"
+  }
+}

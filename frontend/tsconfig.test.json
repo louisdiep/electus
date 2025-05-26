@@ -1,0 +1,11 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+      "jsx": "react-jsx",          // Needed for JSX in tests
+      "esModuleInterop": true,     // Fixes ts-jest warning
+      "moduleResolution": "node",  // Ensure compatibility with Jest
+      "noEmit": true
+    },
+    "include": ["src", "tests"]
+  }
+  

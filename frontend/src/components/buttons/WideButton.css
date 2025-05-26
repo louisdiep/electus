@@ -1,0 +1,65 @@
+.wide-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 56rem;
+  max-width: 80vw;
+  height: 7rem;
+  border: 2px solid white;
+  border-radius: 5rem;
+  background: linear-gradient(to bottom right, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0));
+  color: #f1e9e9;
+  font-size: 1.25rem;
+  gap: 1rem;
+}
+
+.wide-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 0;
+}
+
+.wide-button:hover::before {
+  opacity: 0.5;
+  cursor: pointer;
+  z-index: 0;
+}
+.wide-button > * {
+	position: relative;
+	z-index: 1;
+}
+
+.buttons-container {
+  display: flex;
+  gap: calc(var(--spacing) * 1) /* 0.25rem = 4px */;
+  flex-direction: row;
+}
+
+.buttons {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: calc(var(--spacing) * 2);
+  margin-right: 2rem;
+}
+
+@media (max-width: 600px) {
+  .wide-button {
+    width: 75vw;
+    height: 8rem;
+    border-radius: 3rem;
+    font-size: 1rem;
+  }
+  /* .buttons-container {
+    flex-direction: column;
+  } */
+  .buttons {
+    margin-right: 3vw;
+  }
+}

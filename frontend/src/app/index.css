@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+.lexend-normal {
+  color: white;
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: "300";
+  font-style: normal;
+}
+
+* {
+  font-family: "Lexend", sans-serif;
+}
+
+/* hide scrollbar */
+@layer utilities {
+      /* Hide scrollbar for Chrome, Safari and Opera */
+      .no-scrollbar::-webkit-scrollbar {
+          display: none;
+      }
+     /* Hide scrollbar for IE, Edge and Firefox */
+      .no-scrollbar {
+          -ms-overflow-style: none;  /* IE and Edge */
+          scrollbar-width: none;  /* Firefox */
+    }
+  }

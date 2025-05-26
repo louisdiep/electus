@@ -1,0 +1,43 @@
+.winner-pane {
+  position: relative;
+  display: flex column;
+  justify-content: space-between;
+  align-items: center;
+  width: 56rem;
+  max-width: 80vw;
+  min-height: fit-content;
+  padding: 2rem;
+  border: 2px solid white;
+  border-radius: 4rem;
+  background: linear-gradient(to bottom right, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0));
+  color: #f1e9e9;
+}
+
+.winner-pane::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 0;
+}
+
+.winner-pane:hover::before {
+  opacity: 0.5;
+  cursor: pointer;
+  z-index: 0;
+}
+.winner-pane > * {
+	position: relative;
+	z-index: 1;
+}
+
+@media (max-width: 768px) {
+  .winner-pane {
+    width: 90vw;
+    border-radius: 3rem;
+    font-size: 1rem;
+  }
+}

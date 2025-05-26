@@ -1,0 +1,34 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_207_564)">
+<rect width="2187" height="1530" transform="translate(-248 -288)" fill="#0F003C"/>
+<g filter="url(#filter0_f_207_564)">
+<g clip-path="url(#paint0_angular_207_564_clip_path)" data-figma-skip-parse="true"><g transform="matrix(-0.182221 -0.527335 -0.857321 0.0760243 49.8842 -40.2058)"><foreignObject x="-1607.41" y="-1607.41" width="3214.83" height="3214.83"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(141, 63, 174, 1) 0deg,rgba(86, 27, 190, 1) 28.295deg,rgba(112, 230, 251, 1) 157.819deg,rgba(251, 248, 179, 1) 220.828deg,rgba(249, 135, 145, 1) 305.056deg,rgba(141, 63, 174, 1) 360deg);height:100%;width:100%;opacity:0.8"></div></foreignObject></g></g><path d="M-130.219 49.0471C-300.219 255.829 -278.219 502.829 -471.61 453.329C-698.623 312.866 -545.693 27.6966 -531.355 -80.1793C-513.434 -215.024 -614.984 -428.529 -471.61 -535.281C-328.237 -642.033 -335.988 -971.49 -168.719 -814.171C-1.44971 -656.852 341.728 -628.795 591.745 -338.632C659.781 -259.671 938.083 160.84 842.5 270C758.865 365.515 610.281 77.4208 470.781 -7.13135C267.781 -130.171 62.8425 -185.786 -130.219 49.0471Z" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.33725491166114807,&#34;g&#34;:0.10588235408067703,&#34;b&#34;:0.74509805440902710,&#34;a&#34;:1.0},&#34;position&#34;:0.078597173094749451},{&#34;color&#34;:{&#34;r&#34;:0.43921568989753723,&#34;g&#34;:0.90196079015731812,&#34;b&#34;:0.98431372642517090,&#34;a&#34;:1.0},&#34;position&#34;:0.43838635087013245},{&#34;color&#34;:{&#34;r&#34;:0.98431372642517090,&#34;g&#34;:0.97254902124404907,&#34;b&#34;:0.70196080207824707,&#34;a&#34;:1.0},&#34;position&#34;:0.61341160535812378},{&#34;color&#34;:{&#34;r&#34;:0.97916662693023682,&#34;g&#34;:0.53038191795349121,&#34;b&#34;:0.57159692049026489,&#34;a&#34;:1.0},&#34;position&#34;:0.84737646579742432}],&#34;stopsVar&#34;:[],&#34;transform&#34;:{&#34;m00&#34;:-364.44128417968750,&#34;m01&#34;:-1714.6412353515625,&#34;m02&#34;:1089.4254150390625,&#34;m10&#34;:-1054.6707763671875,&#34;m11&#34;:152.04867553710938,&#34;m12&#34;:411.10528564453125},&#34;opacity&#34;:0.80000001192092896,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;visible&#34;:true}"/>
+</g>
+<g filter="url(#filter1_f_207_564)">
+<g clip-path="url(#paint1_angular_207_564_clip_path)" data-figma-skip-parse="true"><g transform="matrix(-0.0942611 0.275944 -0.443484 -0.039782 1237.87 979.04)"><foreignObject x="-1608.19" y="-1608.19" width="3216.39" height="3216.39"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(141, 63, 174, 1) 0deg,rgba(86, 27, 190, 1) 28.295deg,rgba(255, 255, 255, 1) 132.361deg,rgba(103, 65, 183, 1) 205.588deg,rgba(249, 135, 145, 1) 305.056deg,rgba(141, 63, 174, 1) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><ellipse cx="1276.87" cy="1061.68" rx="372.592" ry="344.25" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:0.33725491166114807,&#34;g&#34;:0.10588235408067703,&#34;b&#34;:0.74509805440902710,&#34;a&#34;:1.0},&#34;position&#34;:0.078597173094749451},{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.36766946315765381},{&#34;color&#34;:{&#34;r&#34;:0.40630984306335449,&#34;g&#34;:0.25829863548278809,&#34;b&#34;:0.72083336114883423,&#34;a&#34;:1.0},&#34;position&#34;:0.57107770442962646},{&#34;color&#34;:{&#34;r&#34;:0.97916662693023682,&#34;g&#34;:0.53038191795349121,&#34;b&#34;:0.57159692049026489,&#34;a&#34;:1.0},&#34;position&#34;:0.84737646579742432}],&#34;stopsVar&#34;:[],&#34;transform&#34;:{&#34;m00&#34;:-188.52220153808594,&#34;m01&#34;:-886.9685058593750,&#34;m02&#34;:1775.6135253906250,&#34;m10&#34;:551.88848876953125,&#34;m11&#34;:-79.564056396484375,&#34;m12&#34;:742.87731933593750},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;visible&#34;:true}"/>
+</g>
+<g filter="url(#filter2_f_207_564)">
+<ellipse cx="769.171" cy="411.429" rx="708.009" ry="654.153" fill="#8F69DE" fill-opacity="0.6"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_207_564" x="-821.73" y="-1082.73" width="1910.74" height="1769.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="113.365" result="effect1_foregroundBlur_207_564"/>
+</filter>
+<clipPath id="paint0_angular_207_564_clip_path"><path d="M-130.219 49.0471C-300.219 255.829 -278.219 502.829 -471.61 453.329C-698.623 312.866 -545.693 27.6966 -531.355 -80.1793C-513.434 -215.024 -614.984 -428.529 -471.61 -535.281C-328.237 -642.033 -335.988 -971.49 -168.719 -814.171C-1.44971 -656.852 341.728 -628.795 591.745 -338.632C659.781 -259.671 938.083 160.84 842.5 270C758.865 365.515 610.281 77.4208 470.781 -7.13135C267.781 -130.171 62.8425 -185.786 -130.219 49.0471Z"/></clipPath><filter id="filter1_f_207_564" x="504.275" y="317.429" width="1545.18" height="1488.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="200" result="effect1_foregroundBlur_207_564"/>
+</filter>
+<clipPath id="paint1_angular_207_564_clip_path"><ellipse cx="1276.87" cy="1061.68" rx="372.592" ry="344.25"/></clipPath><filter id="filter2_f_207_564" x="-508.906" y="-812.792" width="2556.15" height="2448.44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="285.034" result="effect1_foregroundBlur_207_564"/>
+</filter>
+<clipPath id="clip0_207_564">
+<rect width="2187" height="1530" fill="white" transform="translate(-248 -288)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,28 @@
+.small-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  flex-shrink: 0;
+  transition: opacity 0.3s ease;
+}
+
+.small-button-icon {
+  position: absolute;
+  width: 50%;
+}
+
+
+.small-button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .small-button {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+}

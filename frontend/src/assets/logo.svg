@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5872mm"
+   height="5873.6006mm"
+   viewBox="0 0 5872 5873.6006"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="electusLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.016552567"
+     inkscape:cx="37426.219"
+     inkscape:cy="1419.7194"
+     inkscape:window-width="1256"
+     inkscape:window-height="896"
+     inkscape:window-x="221"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g126-3-5-8">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="5872"
+       height="5873.6006"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient20"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#8d7e7e;stop-opacity:0.20765027;"
+         offset="0"
+         id="stop15" />
+      <stop
+         style="stop-color:#3939c7;stop-opacity:1;"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#152058;stop-opacity:1;"
+         offset="0.02631579"
+         id="stop13" />
+      <stop
+         style="stop-color:#7d3ff7;stop-opacity:0.80122322;"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#571781;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#23098b;stop-opacity:1;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="radialGradient98-6-7"
+       cx="-240.01991"
+       cy="-2312.0647"
+       fx="-240.01991"
+       fy="-2312.0647"
+       r="1930.5"
+       gradientTransform="matrix(0.8427764,0.23669079,-0.17513432,0.62359448,-442.65868,-988.64845)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient20"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12086.277,632.12997)"
+       x1="-2328.0234"
+       y1="452.6236"
+       x2="30.983007"
+       y2="452.6236" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(12086.277,632.12997)"
+       x1="-11.423073"
+       y1="415.89865"
+       x2="2305.1765"
+       y2="415.89865" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9153.7221,2818.5684)">
+    <rect
+       style="fill:#fdc9d8;fill-opacity:0;stroke-width:10.7206"
+       id="rect2"
+       width="5872"
+       height="5873.5"
+       x="9153.7217"
+       y="-2818.4678"
+       inkscape:export-filename="electusLogoSquare.svg"
+       inkscape:export-xdpi="5.4848771"
+       inkscape:export-ydpi="5.4848771" />
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient98-6-7);stroke-width:0.264583"
+       id="path3-4-8"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="-445.5"
+       sodipodi:cy="-1096.6154"
+       sodipodi:r1="2209.0293"
+       sodipodi:r2="1418.4868"
+       sodipodi:arg1="0.50760077"
+       sodipodi:arg2="1.0311995"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 1485,-22.846135 -410.16144,1112.1313 -2340.6614,38.362039 -2376,-2170.3846 -480.83856,-3305.362 1449.6614,-2231.5928 Z"
+       transform="matrix(1.2,0,0,1.2,12609.454,1719.7056)"
+       inkscape:transform-center-x="72.696016"
+       inkscape:transform-center-y="452.33077"
+       inkscape:export-filename="electusLogo1000x1268.webp"
+       inkscape:export-xdpi="5.4821715"
+       inkscape:export-ydpi="5.4821715" />
+    <path
+       id="path16-9-7"
+       style="opacity:0.5;fill:url(#linearGradient3);fill-opacity:0.513515;stroke-width:0.317499"
+       d="m 9758.2535,-884.75583 v 5e-4 L 9800.6602,1765.7403 12117.26,3054.2632 12074.854,403.76687 9758.2542,-884.75583 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path17-8-7"
+       style="fill:url(#linearGradient4);fill-opacity:0.513515;stroke-width:0.317499"
+       d="m 14349.047,-958.20573 -2274.193,1361.9726 42.406,2650.49633 2274.193,-1361.9727 z" />
+    <rect
+       style="fill:#000034;fill-opacity:0.520454;stroke-width:0.394249"
+       id="rect23-1-4"
+       width="529.27704"
+       height="1887.5809"
+       x="-6507.1094"
+       y="-8809.2344"
+       transform="matrix(-0.857721,-0.51411544,-0.8527849,0.52226231,0,0)" />
+    <path
+       id="rect23-6-0-4"
+       style="fill:#000000;fill-opacity:0.520454;stroke-width:0.371178"
+       d="m 12664.24,-1241.9028 -1385.34,848.41015 206.744,123.92222 1385.342,-848.41027 z" />
+    <g
+       transform="matrix(0.394646,-0.234631,-0.0104286,0.5984,14196.367,-680.78073)"
+       id="g118-2-9">
+      <g
+         transform="translate(7152.098,7311.9049)"
+         id="g122-8-1">
+        <g
+           transform="translate(-15007.733,-7447.593)"
+           id="g126-3-5">
+          <g
+             style="fill:#b6b6b6;fill-opacity:1;stroke-width:3.16072;stroke-dasharray:none"
+             id="g125-9-5"
+             transform="translate(7847.757,137.32158)">
+            <path
+               d="m -3952.38,-2204.65 -2935.74,34.27 -93.96,-34.21 2935.73,-34.27 z"
+               id="path122-9-5"
+               style="fill:#b6b6b6;fill-opacity:1" />
+            <path
+               d="m -6888.12,-2170.38 -34.26,-2935.74 -93.97,-34.2 34.27,2935.73 z"
+               id="path123-9-8"
+               style="fill:#b6b6b6;fill-opacity:1" />
+            <path
+               d="m -6922.38,-5106.12 2935.73,-34.26 -93.97,-34.21 -2935.73,34.27 z"
+               id="path124-6-2"
+               style="fill:#b6b6b6;fill-opacity:1" />
+            <path
+               d="m -3986.65,-5140.38 34.27,2935.73 -93.97,-34.21 -34.27,-2935.73 z"
+               id="path125-1-9"
+               style="fill:#b6b6b6;fill-opacity:1" />
+          </g>
+          <path
+             sodipodi:type="star"
+             style="fill:#e6e6e6;fill-opacity:1;stroke-width:3.16072;stroke-dasharray:none"
+             id="path33-73-8"
+             inkscape:flatsided="true"
+             sodipodi:sides="4"
+             sodipodi:cx="-5437.3848"
+             sodipodi:cy="-3655.3845"
+             sodipodi:r1="2076.0166"
+             sodipodi:r2="1467.9655"
+             sodipodi:arg1="0.77372554"
+             sodipodi:arg2="1.5591237"
+             inkscape:rounded="0"
+             inkscape:randomized="0"
+             d="m -3952.3847,-2204.6537 -2935.7309,34.2692 -34.2692,-2935.7308 2935.7308,-34.2693 z"
+             transform="translate(7847.757,137.32159)" />
+          <path
+             id="path33-7-9-2"
+             style="fill:#3d3d3d;fill-opacity:0.48;stroke-width:3.16072;stroke-dasharray:none"
+             d="m 3890.1957,-2294.5472 -2932.06786,34.2275 2.7044,231.6241 2932.06846,-34.2266 z" />
+          <g
+             style="fill:#3e3e3e;fill-opacity:0.484931;stroke-width:3.16072;stroke-dasharray:none"
+             id="g137-8-0"
+             transform="matrix(1.0038491,0.14566137,-0.00706233,0.73274271,7463.5387,1871.0749)">
+            <path
+               d="m -6506.5327,-4023.8856 -3.8938,-319.9696 -113.188,-36.7033 3.9061,319.9722 z"
+               id="path135-4-7"
+               style="stroke-width:1.14539"
+               sodipodi:nodetypes="ccccc" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.42036769,-0.23276476,0,0.3724142,11451.115,4766.8781)"
+       id="g147-8-4">
+      <g
+         style="font-size:6227.68px;font-family:'.Al Bayan PUA';-inkscape-font-specification:'.Al Bayan PUA, Normal';white-space:pre;fill:#6565ff;fill-opacity:0.613699;stroke-width:37.7953"
+         id="g146-3-8"
+         transform="translate(-8631.7232,-4226.2353)">
+        <path
+           d="M 11617.5,-751.201 V -5279.04 l -314.4,-319.99 v 4527.84 z"
+           id="path143-1-5"
+           style="fill:#6565ff;fill-opacity:0.613699" />
+        <path
+           d="m 11617.5,-5279.04 h 2983.1 l -314.4,-319.99 h -2983.1 z"
+           id="path144-0-8"
+           style="fill:#6565ff;fill-opacity:0.613699" />
+        <path
+           d="m 12219.6,-3503.18 h 2381 l -314.4,-319.99 h -2381 z"
+           id="path145-0-3"
+           style="fill:#6565ff;fill-opacity:0.613699" />
+        <path
+           d="m 12219.6,-1286.39 h 2381 l -314.4,-320 h -2381 z"
+           id="path146-8-0"
+           style="fill:#6565ff;fill-opacity:0.613699" />
+      </g>
+      <path
+         d="m 5962.5047,-4981.4079 h -2983.083 v -4527.8397 h 2983.083 v 535.1913 h -2380.993 v 1240.6707 h 2380.993 v 535.1912 h -2380.993 v 1681.5953 h 2380.993 z"
+         id="path147-0-6"
+         style="font-size:6227.68px;font-family:'.Al Bayan PUA';-inkscape-font-specification:'.Al Bayan PUA, Normal';white-space:pre;fill:#e3e3e3;stroke-width:37.7953"
+         aria-label="E" />
+    </g>
+  </g>
+</svg>
